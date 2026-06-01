@@ -1,0 +1,20 @@
+{
+  "name": "task-executor-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js Express server to handle basic requests and demonstrate task reception as per user's request.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "server",
+    "task"
+  ],
+  "author": "AI Developer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
